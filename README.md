@@ -1,12 +1,12 @@
 <h1 align="left">Kamusta! 👋 I'm Angelyn.</h1>
-<h3 align="left">An Android-lover and modern web enthusiast from the Philippines 🇵🇭</h3>
+<h3 align="left">An Android-lover and modern web enthusiast</h3>
 
 - 🎓 Education: **George Mason University - B.S. Computer Science**
 - 🌱 I’m currently learning: **Kotlin Multiplatform, Nix**
 - 💬 Ask me about: **Android, Jetpack Compose, Kotlin, Claude**
 - 📄 Know about my experiences: **[linkedin.com/in/angelynd](linkedin.com/in/angelynd)**
 - 📫 How to reach me: **angelyn.domingo122@gmail.com**
-- 💡 Fun fact: **My cat's name is Sir Timmy** 🐈
+- 💡 Fun fact: **I'm FilAm 🇵🇭 and my cat's name is Sir Timmy** 🐈
 
 <h3 align="left">Communities:</h3>
 
