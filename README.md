@@ -1,4 +1,4 @@
-<h1 align="left">Kamusta! 👋 I'm Angelyn</h1>
+<h1 align="left">Kamusta! 👋 I'm Angelyn.</h1>
 <h3 align="left">An Android-lover and modern web enthusiast from the Philippines 🇵🇭</h3>
 
 - 🎓 Education: **George Mason University - B.S. Computer Science**
